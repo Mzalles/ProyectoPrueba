@@ -1,0 +1,1 @@
+print("Tercera prueba: Este es el tercer programa de prueba.")
